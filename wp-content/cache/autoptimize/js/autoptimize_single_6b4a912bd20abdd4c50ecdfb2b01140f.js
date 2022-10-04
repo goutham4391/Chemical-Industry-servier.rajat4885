@@ -1,0 +1,1 @@
+jQuery(function($){WPGMZA.Integration={};WPGMZA.integrationModules={};});
